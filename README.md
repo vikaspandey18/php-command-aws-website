@@ -9,6 +9,9 @@ sudo apt-get install mysql-server
 
 # MySQL Secure Installation
 sudo mysql_secure_installation
+This will generate the password to login in shell into mysql
+username = root
+password = admin@456
 
 # Install Apache
 sudo apt-get install apache2
